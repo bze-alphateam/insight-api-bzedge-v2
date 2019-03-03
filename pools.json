@@ -1,0 +1,58 @@
+[
+  {
+      "poolName": "Mining.me.uk",
+      "url": "http://bzedge.mining.me.uk/",
+      "searchStrings": [
+          "mining.me.uk"
+      ]
+  },
+  {
+    "poolName": "Minerul.me",
+    "url": "https://bze.minerul.me",
+    "searchStrings": [
+        "minerul.me"
+    ]
+  },
+  {
+    "poolName": "EquiHub",
+    "url": "https://bzedge.equihub.pro",
+    "searchStrings": [
+        "equihub.pro"
+    ]
+  },
+  {
+    "poolName": "BZEdge Official Pool",
+    "url": "https://pool.getbze.com",
+    "searchStrings": [
+        "pool.getbze.com"
+    ]
+  },
+  {
+    "poolName": "Voidr",
+    "url": "https://bzedge.voidr.net",
+    "searchStrings": [
+        "voidr.net"
+    ]
+  },
+ {
+    "poolName": "PCMiNing.XYZ",
+    "url": "https://pcmining.xyz",
+    "searchStrings": [
+        "pcmining.xyz"
+    ]
+  },
+  {
+    "poolName": "equihash.pro",
+    "url": "https://equihash.pro",
+    "searchStrings": [
+        "equihash.pro"
+    ]
+  },
+ {
+    "poolName": "Basement pool",
+    "url": "https://bze.basementpool.org",
+    "searchStrings": [
+        "basementpool.org"
+    ]
+  }
+]
