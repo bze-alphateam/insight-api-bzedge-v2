@@ -54,5 +54,12 @@
     "searchStrings": [
         "basementpool.org"
     ]
+  },
+   {
+      "poolName": "FlareHashr",
+      "url": "https://equihash.flarehashr.com:5000",
+      "searchStrings": [
+          "FlareHashr"
+      ]
   }
 ]
